@@ -84,3 +84,20 @@ jobs:
           asset_path: dist/${{ env.name }}-v${{ env.version }}.zip
           asset_name: ${{ env.name }}-v${{ env.version }}.zip
           asset_content_type: application/zip
+  
+      - name: 删除运行的工作流
+        uses: Mattraks/delete-workflow-runs@v2
+        with:
+          token: ${{ secrets.TOKEN  }}
+          repository: ${{ github.repository }}
+          retain_days: 0
+          keep_minimum_runs: 3
+
+      - name: 删除旧 Releases
+        uses: dev-drprasad/delete-older-releases@v0.2.1
+        if: env.UPLOAD_RELEASE == 'true' && !cancelled()
+        with:
+          keep_latest: 4
+          delete_tags: true
+        env:
+          GITHUB_TOKEN: ${{ secrets.TOKEN  }}
