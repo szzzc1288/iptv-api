@@ -65,3 +65,11 @@ jobs:
             git commit -m "Github Action Auto Updated"
             git push --force
           fi
+
+      - name: 删除运行的工作流
+        uses: Mattraks/delete-workflow-runs@v2
+        with:
+          token: ${{ secrets.TOKEN  }}
+          repository: ${{ github.repository }}
+          retain_days: 0
+          keep_minimum_runs: 3
