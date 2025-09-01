@@ -1,47 +1,28 @@
 🕘️更新时间,#genre#
-2025-09-01 18:29:56,http://mg.hmysapp.cn:177/ckmg/zb.php?id=cctv1
+2025-09-02 06:22:27,http://mg.hmysapp.cn:177/ckmg/zb.php?id=cctv1
 
 📺央视频道,#genre#
 CCTV-1,http://mg.hmysapp.cn:177/ckmg/zb.php?id=cctv1
-CCTV-1,http://www.cdnstv.com:6398/hls/1/index.m3u8
 CCTV-2,http://mg.hmysapp.cn:177/ckmg/zb.php?id=cctv2
-CCTV-2,http://www.cdnstv.com:6398/hls/2/index.m3u8
 CCTV-3,http://mg.hmysapp.cn:177/ckmg/zb.php?id=cctv3
-CCTV-3,http://www.cdnstv.com:6398/hls/3/index.m3u8
 CCTV-4,http://mg.hmysapp.cn:177/ckmg/zb.php?id=cctv4
 CCTV-4,http://121.60.56.116:10001/rtp/239.69.1.138:10466
-CCTV-4,http://www.cdnstv.com:6398/hls/4/index.m3u8
 CCTV-5,http://mg.hmysapp.cn:177/ckmg/zb.php?id=cctv5
-CCTV-5,http://218.17.33.178:53290/tsfile/live/1017_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-5,http://121.60.56.116:10001/rtp/239.69.1.123:10376
-CCTV-5,http://www.cdnstv.com:6398/hls/5/index.m3u8
 CCTV-5+,http://mg.hmysapp.cn:177/ckmg/zb.php?id=cctv5p
 CCTV-6,http://mg.hmysapp.cn:177/ckmg/zb.php?id=cctv6
-CCTV-6,http://www.cdnstv.com:6398/hls/6/index.m3u8
 CCTV-7,http://mg.hmysapp.cn:177/ckmg/zb.php?id=cctv7
-CCTV-7,http://www.cdnstv.com:6398/hls/7/index.m3u8
-CCTV-8,http://www.cdnstv.com:6398/hls/8/index.m3u8
 CCTV-9,http://mg.hmysapp.cn:177/ckmg/zb.php?id=cctv9
-CCTV-9,http://www.cdnstv.com:6398/hls/9/index.m3u8
 CCTV-10,http://mg.hmysapp.cn:177/ckmg/zb.php?id=cctv10
-CCTV-10,http://www.cdnstv.com:6398/hls/10/index.m3u8
 CCTV-11,http://mg.hmysapp.cn:177/ckmg/zb.php?id=cctv11
-CCTV-11,http://www.cdnstv.com:6398/hls/11/index.m3u8
 CCTV-12,http://mg.hmysapp.cn:177/ckmg/zb.php?id=cctv12
-CCTV-12,http://www.cdnstv.com:6398/hls/12/index.m3u8
 CCTV-13,http://mg.hmysapp.cn:177/ckmg/zb.php?id=cctv13
-CCTV-13,http://www.cdnstv.com:6398/hls/13/index.m3u8
 CCTV-14,http://mg.hmysapp.cn:177/ckmg/zb.php?id=cctv14
-CCTV-14,http://www.cdnstv.com:6398/hls/14/index.m3u8
 CCTV-15,http://mg.hmysapp.cn:177/ckmg/zb.php?id=cctv15
 CCTV-15,http://121.60.56.116:10001/rtp/239.69.1.155:10566
-CCTV-15,http://www.cdnstv.com:6398/hls/15/index.m3u8
 CCTV-16,http://61.149.251.202:4022/rtp/239.3.1.184:8001
 CCTV-16,http://121.60.56.116:10001/rtp/239.69.1.247:11124
-CCTV-16,http://58.48.104.196:4022/rtp/239.69.1.247:11124
 CCTV-17,http://mg.hmysapp.cn:177/ckmg/zb.php?id=cctv17
-CCTV-17,http://58.48.104.196:4022/rtp/239.69.1.152:10548
-CCTV-17,http://www.cdnstv.com:6398/hls/17/index.m3u8
 
 📡卫视频道,#genre#
 
