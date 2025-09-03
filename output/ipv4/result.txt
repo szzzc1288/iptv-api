@@ -1,21 +1,18 @@
 🕘️更新时间,#genre#
-2025-09-03 06:21:35,http://mg.hmysapp.cn:177/ckmg/zb.php?id=cctv1
+2025-09-03 18:24:29,http://mg.hmysapp.cn:177/ckmg/zb.php?id=cctv1
 
 📺央视频道,#genre#
 CCTV-1,http://mg.hmysapp.cn:177/ckmg/zb.php?id=cctv1
 CCTV-2,http://mg.hmysapp.cn:177/ckmg/zb.php?id=cctv2
 CCTV-3,http://mg.hmysapp.cn:177/ckmg/zb.php?id=cctv3
-CCTV-4,http://mg.hmysapp.cn:177/ckmg/zb.php?id=cctv4
 CCTV-4,http://121.60.56.116:10001/rtp/239.69.1.138:10466
 CCTV-5,http://mg.hmysapp.cn:177/ckmg/zb.php?id=cctv5
 CCTV-5,http://121.60.56.116:10001/rtp/239.69.1.123:10376
 CCTV-5+,http://mg.hmysapp.cn:177/ckmg/zb.php?id=cctv5p
 CCTV-6,http://mg.hmysapp.cn:177/ckmg/zb.php?id=cctv6
-CCTV-7,http://mg.hmysapp.cn:177/ckmg/zb.php?id=cctv7
 CCTV-9,http://mg.hmysapp.cn:177/ckmg/zb.php?id=cctv9
 CCTV-10,http://mg.hmysapp.cn:177/ckmg/zb.php?id=cctv10
 CCTV-11,http://mg.hmysapp.cn:177/ckmg/zb.php?id=cctv11
-CCTV-12,http://mg.hmysapp.cn:177/ckmg/zb.php?id=cctv12
 CCTV-13,http://mg.hmysapp.cn:177/ckmg/zb.php?id=cctv13
 CCTV-14,http://mg.hmysapp.cn:177/ckmg/zb.php?id=cctv14
 CCTV-15,http://mg.hmysapp.cn:177/ckmg/zb.php?id=cctv15
