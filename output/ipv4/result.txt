@@ -1,10 +1,9 @@
 🕘️更新时间,#genre#
-2025-09-04 18:24:47,http://mg.hmysapp.cn:177/ckmg/zb.php?id=cctv1
+2025-09-05 06:23:42,http://mg.hmysapp.cn:177/ckmg/zb.php?id=cctv1
 
 📺央视频道,#genre#
 CCTV-1,http://mg.hmysapp.cn:177/ckmg/zb.php?id=cctv1
 CCTV-2,http://mg.hmysapp.cn:177/ckmg/zb.php?id=cctv2
-CCTV-2,http://113.26.202.52:1299/tsfile/live/0002_1.m3u8
 CCTV-4,http://121.60.56.116:10001/rtp/239.69.1.138:10466
 CCTV-5,http://mg.hmysapp.cn:177/ckmg/zb.php?id=cctv5
 CCTV-5,http://121.60.56.116:10001/rtp/239.69.1.123:10376
@@ -39,8 +38,8 @@ CCTV-17,http://mg.hmysapp.cn:177/ckmg/zb.php?id=cctv17
 TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 纬来体育,https://cdn.iptv8k.top/dl/jrys.php?id=292&amp;amp;time=20240926215313&amp;amp;ip=111.229.253.40
 纬来育乐,https://cdn.iptv8k.top/dl/jrys.php?id=289&time=20240926215313&ip=111.229.253.40
-Viutv,https://cdn.iptv8k.top/dl/jrys.php?id=78&time=20240926215313&ip=111.229.253.40
 Viutv,https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
+Viutv,https://cdn.iptv8k.top/dl/jrys.php?id=78&time=20240926215313&ip=111.229.253.40
 三立台湾,https://cdn.iptv8k.top/dl/jrys.php?id=269&time=20240926215313&ip=111.229.253.40
 三立新闻,https://cdn.iptv8k.top/dl/jrys.php?id=273&time=20240926215313&ip=111.229.253.40
 东森综合,https://cdn.iptv8k.top/dl/jrys.php?id=221&amp;time=20240926215313&amp;ip=111.229.253.40
