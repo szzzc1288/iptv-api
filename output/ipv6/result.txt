@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-11-17 18:41:59,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
+2025-11-18 06:31:05,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
 
 📺央视频道,#genre#
 CCTV-1,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
@@ -327,11 +327,11 @@ CETV-4,http://gslbmgsplive.miguvideo.com/migu/kailu/cetv4/50/20240709/index.m3u8
 广州竞赛,https://stream1.freetv.fun/yan-zhou-jing-sai-38.ctv
 广州竞赛,https://stream1.freetv.fun/yan-zhou-jing-sai-32.ctv
 广州竞赛,https://stream1.freetv.fun/yan-zhou-jing-sai-2.m3u8
+广州竞赛,https://stream1.freetv.fun/yan-zhou-jing-sai-33.ctv
 广州竞赛,https://stream1.freetv.fun/yan-zhou-jing-sai-31.ctv
 广州竞赛,https://stream1.freetv.fun/yan-zhou-jing-sai-12.ctv
 广州竞赛,https://stream1.freetv.fun/yan-zhou-jing-sai-4.ctv
 广州竞赛,https://stream1.freetv.fun/yan-zhou-jing-sai-26.ctv
-广州竞赛,https://stream1.freetv.fun/yan-zhou-jing-sai-35.ctv
 汕头综合,https://stream1.freetv.fun/shan-tou-zong-he-5.ctv
 汕头综合,https://stream1.freetv.fun/shan-tou-zong-he-7.ctv
 汕头综合,https://stream1.freetv.fun/shan-tou-zong-he-1.ctv
