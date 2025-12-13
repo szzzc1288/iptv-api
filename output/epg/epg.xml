@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="20251212223157 +0800">
+<tv date="20251213103154 +0800">
 	<channel id="CCTV-1">
 		<display-name lang="zh">CCTV-1</display-name>
 	</channel>
@@ -2646,95 +2646,350 @@
 	<programme channel="大湾区卫视" start="20251213234800 +0800" stop="20251213235900 +0800">
 		<title lang="zh">剧场</title>
 	</programme>
+	<channel id="广东体育">
+		<display-name lang="zh">广东体育</display-name>
+	</channel>
+	<programme channel="广东体育" start="20251213003100 +0800" stop="20251213020100 +0800">
+		<title lang="zh">首播 2025世界F1第24站阿布扎比大奖赛正赛</title>
+	</programme>
+	<programme channel="广东体育" start="20251213020100 +0800" stop="20251213025100 +0800">
+		<title lang="zh">重播 第十五届全国运动会蹦床项目精选 男子团体决赛</title>
+	</programme>
+	<programme channel="广东体育" start="20251213025100 +0800" stop="20251213034300 +0800">
+		<title lang="zh">重播 荣耀时刻:第十五届全国运动会精选 跳水男子双人十米跳台决赛</title>
+	</programme>
+	<programme channel="广东体育" start="20251213034300 +0800" stop="20251213043500 +0800">
+		<title lang="zh">重播 荣耀时刻:第十五届全国运动会精选 篮球女子成年组1/4决赛 上海vs广东</title>
+	</programme>
+	<programme channel="广东体育" start="20251213043500 +0800" stop="20251213052700 +0800">
+		<title lang="zh">重播 荣耀时刻:第十五届全国运动会精选 乒乓球混双决赛 江苏vs广东</title>
+	</programme>
+	<programme channel="广东体育" start="20251213052700 +0800" stop="20251213054100 +0800">
+		<title lang="zh">重播 荣耀时刻:第十五届全国运动会精选版 跳水 男子双人3米板决赛</title>
+	</programme>
+	<programme channel="广东体育" start="20251213054100 +0800" stop="20251213063300 +0800">
+		<title lang="zh">重播 第十五届全国运动会蹦床项目精选 女子个人、男子个人决赛</title>
+	</programme>
+	<programme channel="广东体育" start="20251213063300 +0800" stop="20251213081000 +0800">
+		<title lang="zh">重播 荣耀时刻:第十五届全国运动会跳水项目精选 女子1米跳板决赛</title>
+	</programme>
+	<programme channel="广东体育" start="20251213081000 +0800" stop="20251213091300 +0800">
+		<title lang="zh">重播 25-26德甲第13轮精编版 多特蒙德vs霍芬海姆</title>
+	</programme>
+	<programme channel="广东体育" start="20251213091300 +0800" stop="20251213092600 +0800">
+		<title lang="zh">重播 全运回眸(7)</title>
+	</programme>
+	<programme channel="广东体育" start="20251213092600 +0800" stop="20251213100600 +0800">
+		<title lang="zh">重播 全运回眸(8)</title>
+	</programme>
+	<programme channel="广东体育" start="20251213100600 +0800" stop="20251213114400 +0800">
+		<title lang="zh">重播 24-25CBA赛场第46轮 四川丰谷酒业vs广东东阳光</title>
+	</programme>
+	<programme channel="广东体育" start="20251213114400 +0800" stop="20251213124600 +0800">
+		<title lang="zh">首播 2025残特奥会精选</title>
+	</programme>
+	<programme channel="广东体育" start="20251213124600 +0800" stop="20251213132500 +0800">
+		<title lang="zh">首播 一起出发吧(1)</title>
+	</programme>
+	<programme channel="广东体育" start="20251213132500 +0800" stop="20251213152500 +0800">
+		<title lang="zh">直播 全国第十二届残运会暨第九届特奥会第5比赛日(13:30五人制轮椅篮球男子组1/4决赛)</title>
+	</programme>
+	<programme channel="广东体育" start="20251213152500 +0800" stop="20251213153900 +0800">
+		<title lang="zh">重播 荣耀时刻:第十五届全国运动会精选版 跳水 男子双人3米板决赛</title>
+	</programme>
+	<programme channel="广东体育" start="20251213153900 +0800" stop="20251213161800 +0800">
+		<title lang="zh">重播(百年糊涂广告版)荣耀时刻:第十五届全国运动会精选 跳水 女子双人3米板决赛</title>
+	</programme>
+	<programme channel="广东体育" start="20251213161800 +0800" stop="20251213163300 +0800">
+		<title lang="zh">重播 全运回眸(2)</title>
+	</programme>
+	<programme channel="广东体育" start="20251213163300 +0800" stop="20251213173800 +0800">
+		<title lang="zh">重播 羽乐无限:2025全英羽毛球公开赛精选 女双半决赛 松山奈未/志田千阳vs刘圣书/谭宁</title>
+	</programme>
+	<programme channel="广东体育" start="20251213173800 +0800" stop="20251213181100 +0800">
+		<title lang="zh">首播 珠江少年派(4)</title>
+	</programme>
+	<programme channel="广东体育" start="20251213181100 +0800" stop="20251213190000 +0800">
+		<title lang="zh">重播 2025年CBA全明星周末三分球、技巧赛</title>
+	</programme>
+	<programme channel="广东体育" start="20251213190000 +0800" stop="20251213192100 +0800">
+		<title lang="zh">直播 体育世界</title>
+	</programme>
+	<programme channel="广东体育" start="20251213192100 +0800" stop="20251213212500 +0800">
+		<title lang="zh">直播 2025-2026CBA中国男子篮球职业联赛常规赛第1轮(19:35深圳马可波罗vs青岛崂山啤酒)</title>
+	</programme>
+	<programme channel="广东体育" start="20251213212500 +0800" stop="20251213233400 +0800">
+		<title lang="zh">实况延播 2025-2026CBA中国男子篮球职业联赛常规赛第1轮(19:35四川丰谷酒业vs广州朗肽海本)</title>
+	</programme>
+	<programme channel="广东体育" start="20251213233400 +0800" stop="20251213235900 +0800">
+		<title lang="zh">重播 荣耀时刻:第十五届全国运动会精选 乒乓球混双决赛 江苏vs广东</title>
+	</programme>
 	<channel id="广东卫视">
 		<display-name lang="zh">广东卫视</display-name>
 	</channel>
-	<programme channel="广东卫视" start="20251213014600 +0800" stop="20251213021200 +0800">
-		<title lang="zh">南岭物语</title>
+	<programme channel="广东卫视" start="20251213012800 +0800" stop="20251213050000 +0800">
+		<title lang="zh">重播节目、纪录片</title>
 	</programme>
-	<programme channel="广东卫视" start="20251213021200 +0800" stop="20251213043500 +0800">
-		<title lang="zh">老广的味道</title>
+	<programme channel="广东卫视" start="20251213050000 +0800" stop="20251213054000 +0800">
+		<title lang="zh">乌云之上(16完)</title>
 	</programme>
-	<programme channel="广东卫视" start="20251213043500 +0800" stop="20251213044700 +0800">
-		<title lang="zh">纪录片</title>
+	<programme channel="广东卫视" start="20251213054000 +0800" stop="20251213063000 +0800">
+		<title lang="zh">上甘岭(1)</title>
 	</programme>
-	<programme channel="广东卫视" start="20251213044700 +0800" stop="20251213051800 +0800">
-		<title lang="zh">纪录片</title>
+	<programme channel="广东卫视" start="20251213063000 +0800" stop="20251213065700 +0800">
+		<title lang="zh">广东新闻联播重播</title>
 	</programme>
-	<programme channel="广东卫视" start="20251213051800 +0800" stop="20251213060400 +0800">
-		<title lang="zh">早间剧场</title>
+	<programme channel="广东卫视" start="20251213065700 +0800" stop="20251213070000 +0800">
+		<title lang="zh">早间天气预报</title>
 	</programme>
-	<programme channel="广东卫视" start="20251213060400 +0800" stop="20251213070000 +0800">
-		<title lang="zh">粤港澳大湾区</title>
+	<programme channel="广东卫视" start="20251213070000 +0800" stop="20251213073300 +0800">
+		<title lang="zh">大美南粤</title>
 	</programme>
-	<programme channel="广东卫视" start="20251213070000 +0800" stop="20251213073000 +0800">
-		<title lang="zh">广东新闻联播</title>
+	<programme channel="广东卫视" start="20251213073300 +0800" stop="20251213083500 +0800">
+		<title lang="zh">黑色名单(31)</title>
 	</programme>
-	<programme channel="广东卫视" start="20251213073000 +0800" stop="20251213082400 +0800">
-		<title lang="zh">动画片剧场</title>
+	<programme channel="广东卫视" start="20251213083500 +0800" stop="20251213091800 +0800">
+		<title lang="zh">黑色名单(32)</title>
 	</programme>
-	<programme channel="广东卫视" start="20251213082400 +0800" stop="20251213090500 +0800">
-		<title lang="zh">上午剧场</title>
+	<programme channel="广东卫视" start="20251213091800 +0800" stop="20251213101100 +0800">
+		<title lang="zh">黑色名单(33)</title>
 	</programme>
-	<programme channel="广东卫视" start="20251213090500 +0800" stop="20251213094700 +0800">
-		<title lang="zh">上午剧场</title>
+	<programme channel="广东卫视" start="20251213101100 +0800" stop="20251213110400 +0800">
+		<title lang="zh">黑色名单(34)</title>
 	</programme>
-	<programme channel="广东卫视" start="20251213094700 +0800" stop="20251213102900 +0800">
-		<title lang="zh">上午剧场</title>
+	<programme channel="广东卫视" start="20251213110400 +0800" stop="20251213120000 +0800">
+		<title lang="zh">黑色名单(35完)</title>
 	</programme>
-	<programme channel="广东卫视" start="20251213102900 +0800" stop="20251213111100 +0800">
-		<title lang="zh">上午剧场</title>
+	<programme channel="广东卫视" start="20251213120000 +0800" stop="20251213123700 +0800">
+		<title lang="zh">风味人间</title>
 	</programme>
-	<programme channel="广东卫视" start="20251213111100 +0800" stop="20251213115300 +0800">
-		<title lang="zh">上午剧场</title>
+	<programme channel="广东卫视" start="20251213123700 +0800" stop="20251213132700 +0800">
+		<title lang="zh">移动的枪口(5)</title>
 	</programme>
-	<programme channel="广东卫视" start="20251213115300 +0800" stop="20251213124000 +0800">
-		<title lang="zh">上午剧场</title>
+	<programme channel="广东卫视" start="20251213132700 +0800" stop="20251213141000 +0800">
+		<title lang="zh">移动的枪口(6)</title>
 	</programme>
-	<programme channel="广东卫视" start="20251213124000 +0800" stop="20251213134000 +0800">
-		<title lang="zh">老广的味道</title>
+	<programme channel="广东卫视" start="20251213141000 +0800" stop="20251213150200 +0800">
+		<title lang="zh">移动的枪口(7)</title>
 	</programme>
-	<programme channel="广东卫视" start="20251213134000 +0800" stop="20251213142600 +0800">
-		<title lang="zh">下午茶剧场:移动的枪口(5)</title>
+	<programme channel="广东卫视" start="20251213150200 +0800" stop="20251213155500 +0800">
+		<title lang="zh">移动的枪口(8)</title>
 	</programme>
-	<programme channel="广东卫视" start="20251213142600 +0800" stop="20251213150300 +0800">
-		<title lang="zh">下午茶剧场:移动的枪口(6)</title>
+	<programme channel="广东卫视" start="20251213155500 +0800" stop="20251213164800 +0800">
+		<title lang="zh">移动的枪口(9)</title>
 	</programme>
-	<programme channel="广东卫视" start="20251213150300 +0800" stop="20251213155900 +0800">
-		<title lang="zh">下午茶剧场:移动的枪口(7)</title>
+	<programme channel="广东卫视" start="20251213164800 +0800" stop="20251213174000 +0800">
+		<title lang="zh">移动的枪口(10)</title>
 	</programme>
-	<programme channel="广东卫视" start="20251213155900 +0800" stop="20251213165100 +0800">
-		<title lang="zh">下午茶剧场:移动的枪口(8)</title>
+	<programme channel="广东卫视" start="20251213174000 +0800" stop="20251213182000 +0800">
+		<title lang="zh">移动的枪口(11)</title>
 	</programme>
-	<programme channel="广东卫视" start="20251213165100 +0800" stop="20251213174500 +0800">
-		<title lang="zh">下午茶剧场:移动的枪口(9)</title>
-	</programme>
-	<programme channel="广东卫视" start="20251213174500 +0800" stop="20251213175500 +0800">
-		<title lang="zh">下午茶剧场:移动的枪口(10)</title>
-	</programme>
-	<programme channel="广东卫视" start="20251213175500 +0800" stop="20251213183000 +0800">
-		<title lang="zh">生活大数据</title>
+	<programme channel="广东卫视" start="20251213182000 +0800" stop="20251213183000 +0800">
+		<title lang="zh">国宝时刻</title>
 	</programme>
 	<programme channel="广东卫视" start="20251213183000 +0800" stop="20251213185600 +0800">
 		<title lang="zh">广东新闻联播</title>
 	</programme>
 	<programme channel="广东卫视" start="20251213185600 +0800" stop="20251213190000 +0800">
-		<title lang="zh">广东天气预报</title>
+		<title lang="zh">天气预报</title>
 	</programme>
 	<programme channel="广东卫视" start="20251213190000 +0800" stop="20251213193300 +0800">
 		<title lang="zh">转播中央台新闻联播</title>
 	</programme>
-	<programme channel="广东卫视" start="20251213193300 +0800" stop="20251213202900 +0800">
-		<title lang="zh">活力剧场:唐朝诡事录之西行(31)</title>
+	<programme channel="广东卫视" start="20251213193300 +0800" stop="20251213203000 +0800">
+		<title lang="zh">唐朝诡事录之西行(31)</title>
 	</programme>
-	<programme channel="广东卫视" start="20251213202900 +0800" stop="20251213211000 +0800">
-		<title lang="zh">活力剧场:唐朝诡事录之西行(32)</title>
+	<programme channel="广东卫视" start="20251213203000 +0800" stop="20251213212000 +0800">
+		<title lang="zh">唐朝诡事录之西行(32)</title>
 	</programme>
-	<programme channel="广东卫视" start="20251213211000 +0800" stop="20251213224700 +0800">
-		<title lang="zh">秘境神草第四季</title>
+	<programme channel="广东卫视" start="20251213212000 +0800" stop="20251213214500 +0800">
+		<title lang="zh">技行天下</title>
 	</programme>
-	<programme channel="广东卫视" start="20251213224700 +0800" stop="20251213235900 +0800">
-		<title lang="zh">活力影院</title>
+	<programme channel="广东卫视" start="20251213214500 +0800" stop="20251213222000 +0800">
+		<title lang="zh">全球零距离</title>
+	</programme>
+	<programme channel="广东卫视" start="20251213222000 +0800" stop="20251213230500 +0800">
+		<title lang="zh">血战松毛岭(19)</title>
+	</programme>
+	<programme channel="广东卫视" start="20251213230500 +0800" stop="20251213234800 +0800">
+		<title lang="zh">血战松毛岭(20)</title>
+	</programme>
+	<programme channel="广东卫视" start="20251213234800 +0800" stop="20251213235900 +0800">
+		<title lang="zh">兵临城下</title>
+	</programme>
+	<channel id="广东新闻">
+		<display-name lang="zh">广东新闻</display-name>
+	</channel>
+	<programme channel="广东新闻" start="20251213000000 +0800" stop="20251213003000 +0800">
+		<title lang="zh">专题</title>
+	</programme>
+	<programme channel="广东新闻" start="20251213003000 +0800" stop="20251213010000 +0800">
+		<title lang="zh">今日焦点</title>
+	</programme>
+	<programme channel="广东新闻" start="20251213010000 +0800" stop="20251213014500 +0800">
+		<title lang="zh">今日一线</title>
+	</programme>
+	<programme channel="广东新闻" start="20251213014500 +0800" stop="20251213020500 +0800">
+		<title lang="zh">老广的味道</title>
+	</programme>
+	<programme channel="广东新闻" start="20251213020500 +0800" stop="20251213054000 +0800">
+		<title lang="zh">今日关注</title>
+	</programme>
+	<programme channel="广东新闻" start="20251213054000 +0800" stop="20251213060000 +0800">
+		<title lang="zh">社会纵横</title>
+	</programme>
+	<programme channel="广东新闻" start="20251213060000 +0800" stop="20251213063000 +0800">
+		<title lang="zh">乡村振兴报道</title>
+	</programme>
+	<programme channel="广东新闻" start="20251213063000 +0800" stop="20251213065000 +0800">
+		<title lang="zh">老广的味道</title>
+	</programme>
+	<programme channel="广东新闻" start="20251213065000 +0800" stop="20251213070100 +0800">
+		<title lang="zh">社会纵横</title>
+	</programme>
+	<programme channel="广东新闻" start="20251213070100 +0800" stop="20251213080000 +0800">
+		<title lang="zh">今日关注</title>
+	</programme>
+	<programme channel="广东新闻" start="20251213080000 +0800" stop="20251213083000 +0800">
+		<title lang="zh">广东新闻联播</title>
+	</programme>
+	<programme channel="广东新闻" start="20251213083000 +0800" stop="20251213090000 +0800">
+		<title lang="zh">专题</title>
+	</programme>
+	<programme channel="广东新闻" start="20251213090000 +0800" stop="20251213094500 +0800">
+		<title lang="zh">今日一线</title>
+	</programme>
+	<programme channel="广东新闻" start="20251213094500 +0800" stop="20251213100000 +0800">
+		<title lang="zh">社会纵横</title>
+	</programme>
+	<programme channel="广东新闻" start="20251213100000 +0800" stop="20251213103000 +0800">
+		<title lang="zh">正点播报</title>
+	</programme>
+	<programme channel="广东新闻" start="20251213103000 +0800" stop="20251213110000 +0800">
+		<title lang="zh">专题</title>
+	</programme>
+	<programme channel="广东新闻" start="20251213110000 +0800" stop="20251213113000 +0800">
+		<title lang="zh">正点播报</title>
+	</programme>
+	<programme channel="广东新闻" start="20251213113000 +0800" stop="20251213120000 +0800">
+		<title lang="zh">专题</title>
+	</programme>
+	<programme channel="广东新闻" start="20251213120000 +0800" stop="20251213123000 +0800">
+		<title lang="zh">午间30分</title>
+	</programme>
+	<programme channel="广东新闻" start="20251213123000 +0800" stop="20251213130000 +0800">
+		<title lang="zh">专题</title>
+	</programme>
+	<programme channel="广东新闻" start="20251213130000 +0800" stop="20251213133000 +0800">
+		<title lang="zh">正点播报</title>
+	</programme>
+	<programme channel="广东新闻" start="20251213133000 +0800" stop="20251213140000 +0800">
+		<title lang="zh">专题</title>
+	</programme>
+	<programme channel="广东新闻" start="20251213140000 +0800" stop="20251213144000 +0800">
+		<title lang="zh">正点播报</title>
+	</programme>
+	<programme channel="广东新闻" start="20251213144000 +0800" stop="20251213150000 +0800">
+		<title lang="zh">老广的味道</title>
+	</programme>
+	<programme channel="广东新闻" start="20251213150000 +0800" stop="20251213154000 +0800">
+		<title lang="zh">正点播报</title>
+	</programme>
+	<programme channel="广东新闻" start="20251213154000 +0800" stop="20251213160000 +0800">
+		<title lang="zh">专题</title>
+	</programme>
+	<programme channel="广东新闻" start="20251213160000 +0800" stop="20251213163000 +0800">
+		<title lang="zh">正点播报</title>
+	</programme>
+	<programme channel="广东新闻" start="20251213163000 +0800" stop="20251213170000 +0800">
+		<title lang="zh">专题</title>
+	</programme>
+	<programme channel="广东新闻" start="20251213170000 +0800" stop="20251213173000 +0800">
+		<title lang="zh">正点播报</title>
+	</programme>
+	<programme channel="广东新闻" start="20251213173000 +0800" stop="20251213180000 +0800">
+		<title lang="zh">专题</title>
+	</programme>
+	<programme channel="广东新闻" start="20251213180000 +0800" stop="20251213183000 +0800">
+		<title lang="zh">正点播报</title>
+	</programme>
+	<programme channel="广东新闻" start="20251213183000 +0800" stop="20251213190000 +0800">
+		<title lang="zh">专题</title>
+	</programme>
+	<programme channel="广东新闻" start="20251213190000 +0800" stop="20251213192500 +0800">
+		<title lang="zh">权威访谈</title>
+	</programme>
+	<programme channel="广东新闻" start="20251213192500 +0800" stop="20251213193000 +0800">
+		<title lang="zh">天气预报</title>
+	</programme>
+	<programme channel="广东新闻" start="20251213193000 +0800" stop="20251213200000 +0800">
+		<title lang="zh">广东新闻联播</title>
+	</programme>
+	<programme channel="广东新闻" start="20251213200000 +0800" stop="20251213211000 +0800">
+		<title lang="zh">2025年省人大专题询问会</title>
+	</programme>
+	<programme channel="广东新闻" start="20251213211000 +0800" stop="20251213213000 +0800">
+		<title lang="zh">粤食粤健康</title>
+	</programme>
+	<programme channel="广东新闻" start="20251213213000 +0800" stop="20251213221500 +0800">
+		<title lang="zh">今日一线</title>
+	</programme>
+	<programme channel="广东新闻" start="20251213221500 +0800" stop="20251213223000 +0800">
+		<title lang="zh">文明观察</title>
+	</programme>
+	<programme channel="广东新闻" start="20251213223000 +0800" stop="20251213230000 +0800">
+		<title lang="zh">新闻夜线</title>
+	</programme>
+	<programme channel="广东新闻" start="20251213230000 +0800" stop="20251213233500 +0800">
+		<title lang="zh">今日关注</title>
+	</programme>
+	<programme channel="广东新闻" start="20251213233500 +0800" stop="20251213235900 +0800">
+		<title lang="zh">权威访谈</title>
+	</programme>
+	<channel id="广东珠江">
+		<display-name lang="zh">广东珠江</display-name>
+	</channel>
+	<programme channel="广东珠江" start="20251213002500 +0800" stop="20251213011000 +0800">
+		<title lang="zh">今日关注(重播)</title>
+	</programme>
+	<programme channel="广东珠江" start="20251213011000 +0800" stop="20251213050500 +0800">
+		<title lang="zh">电视剧:奶奶再爱我一次</title>
+	</programme>
+	<programme channel="广东珠江" start="20251213050500 +0800" stop="20251213070500 +0800">
+		<title lang="zh">电视剧:杜鹃红了</title>
+	</programme>
+	<programme channel="广东珠江" start="20251213070500 +0800" stop="20251213085500 +0800">
+		<title lang="zh">今日关注(重播)</title>
+	</programme>
+	<programme channel="广东珠江" start="20251213085500 +0800" stop="20251213170000 +0800">
+		<title lang="zh">传奇剧场:锻刀br /</title>
+	</programme>
+	<programme channel="广东珠江" start="20251213170000 +0800" stop="20251213172500 +0800">
+		<title lang="zh">传奇剧场:东海客栈</title>
+	</programme>
+	<programme channel="广东珠江" start="20251213172500 +0800" stop="20251213180000 +0800">
+		<title lang="zh">人生一万年</title>
+	</programme>
+	<programme channel="广东珠江" start="20251213180000 +0800" stop="20251213190000 +0800">
+		<title lang="zh">珠江新闻</title>
+	</programme>
+	<programme channel="广东珠江" start="20251213190000 +0800" stop="20251213200000 +0800">
+		<title lang="zh">珠江剧场:姐妹兄弟29</title>
+	</programme>
+	<programme channel="广东珠江" start="20251213200000 +0800" stop="20251213210000 +0800">
+		<title lang="zh">珠江剧场:姐妹兄弟30</title>
+	</programme>
+	<programme channel="广东珠江" start="20251213210000 +0800" stop="20251213214500 +0800">
+		<title lang="zh">今日关注</title>
+	</programme>
+	<programme channel="广东珠江" start="20251213214500 +0800" stop="20251213225000 +0800">
+		<title lang="zh">王牌剧场:铁核桃6</title>
+	</programme>
+	<programme channel="广东珠江" start="20251213225000 +0800" stop="20251213234000 +0800">
+		<title lang="zh">王牌剧场:铁核桃7</title>
+	</programme>
+	<programme channel="广东珠江" start="20251213234000 +0800" stop="20251213235900 +0800">
+		<title lang="zh">王牌剧场:铁核桃8</title>
 	</programme>
 	<channel id="广州竞赛">
 		<display-name lang="zh">广州竞赛</display-name>
