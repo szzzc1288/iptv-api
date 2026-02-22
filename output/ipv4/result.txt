@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-02-22 06:38:50,http://38.75.136.137:98/gslb/dsdqbv/cctv1hd.m3u8?auth=test20251009
+2026-02-22 18:40:29,http://38.75.136.137:98/gslb/dsdqbv/cctv1hd.m3u8?auth=test20251009
 
 📺央视频道,#genre#
 CCTV-1,http://38.75.136.137:98/gslb/dsdqbv/cctv1hd.m3u8?auth=test20251009
@@ -8,11 +8,11 @@ CCTV-2,http://74.91.26.218:82/live/cctv2hd.m3u8
 CCTV-3,http://38.75.136.137:98/gslb/dsdqbv/cctv3hd.m3u8?auth=test20251009
 CCTV-4,http://38.75.136.137:98/gslb/dsdqbv/cctv4hd.m3u8?auth=test20251009
 CCTV-4,http://cctv.sohu.blog/ysxw.php?id=cctv4k&q=lg
+CCTV-5,https://iptv.catvod.com/live.php?id=CCTV5&line=15
+CCTV-5,https://iptv.catvod.com/live.php?id=CCTV5&line=14
+CCTV-5,https://iptv.catvod.com/live.php?id=CCTV5&line=13
 CCTV-5,http://38.75.136.137:98/gslb/dsdqbv/cctv5p.m3u8?auth=test20251009
 CCTV-5,http://38.75.136.137:98/gslb/dsdqbv/cctv5hd.m3u8?auth=test20251009
-CCTV-5,https://iptv.catvod.com/live.php?id=CCTV5&line=15
-CCTV-5,https://iptv.catvod.com/live.php?id=CCTV5&line=13
-CCTV-5,https://iptv.catvod.com/live.php?id=CCTV5&line=14
 CCTV-6,http://38.75.136.137:98/gslb/dsdqbv/cctv6hd.m3u8?auth=test20251009
 CCTV-7,http://38.75.136.137:98/gslb/dsdqbv/cctv7hd.m3u8?auth=test20251009
 CCTV-7,http://23.237.228.134/live5/CCTV7.m3u8
@@ -39,8 +39,6 @@ CCTV-17,http://38.75.136.137:98/gslb/dsdqbv/cctv17hd.m3u8?auth=test20251009
 北京青年,http://player.cntv.cn/standard/live_HLSDRM20180919.swf?v=180.171.5.8.9.6.3.9&ChannelID=btv8&videoTVChannel=btv8&P2PChannelID=pd://cctv_p2p_hdbtv8&tai=btv8&VideoName=btv8&channelID=btv8
 
 🌊港·澳·台,#genre#
-凤凰资讯,http://pull-vivek.speedws.com/live/aaafhzx.flv
-凤凰香港,http://pull-vivek.speedws.com/live/aaafhxg.flv
 TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 Now华剧,http://iptv.4666888.xyz/iptv2A.php?id=84
 星卫娱乐,http://61.162.52.6:8088/newlive/live/hls/60/live.m3u8
