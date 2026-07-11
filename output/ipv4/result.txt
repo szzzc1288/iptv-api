@@ -1,17 +1,16 @@
 🕘️更新时间,#genre#
-2026-07-11 19:16:34,http://182.37.41.46:8154/tsfile/live/0003_1.m3u8?key=txiptv
+2026-07-12 07:04:30,http://www.negative.top:50000/rtp/233.50.200.109:5140
 
 📺央视频道,#genre#
-CCTV-3,http://182.37.41.46:8154/tsfile/live/0003_1.m3u8?key=txiptv
 CCTV-6,http://www.negative.top:50000/rtp/233.50.200.109:5140
 CCTV-9,http://198.204.228.26/live/cctv9hd.m3u8
 CCTV-10,https://cdn4.skygo.mn/live/disk1/CCTV-10/HLSv3-FTA/CCTV-10.m3u8
 CCTV-10,https://hwapi.yntv.net/ew265l/z1z6s5.m3u8
+CCTV-11,http://125.42.148.50:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-17,http://192.151.150.154/live/cctv17hd.m3u8
 CCTV-17,http://www.negative.top:50000/rtp/233.50.200.113:5140
 
 📡卫视频道,#genre#
-深圳卫视,http://182.37.41.46:8154/tsfile/live/0126_1.m3u8?key=txiptv
 
 ☘️广东频道,#genre#
 
