@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-07-15 19:45:20,http://www.negative.top:50000/rtp/233.50.200.109:5140
+2026-07-16 07:09:17,http://www.negative.top:50000/rtp/233.50.200.109:5140
 
 📺央视频道,#genre#
 CCTV-6,http://www.negative.top:50000/rtp/233.50.200.109:5140
@@ -12,7 +12,6 @@ CCTV-17,http://192.151.150.154/live/cctv17hd.m3u8
 CCTV-17,http://www.negative.top:50000/rtp/233.50.200.113:5140
 
 📡卫视频道,#genre#
-深圳卫视,http://58.56.162.102:4466/newlive/live/hls/24/live.m3u8
 
 ☘️广东频道,#genre#
 
