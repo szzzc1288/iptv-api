@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="20260831173649 +0800">
+<tv date="20260901011552 +0800">
 	<channel id="CCTV-1">
 		<display-name lang="zh">CCTV-1</display-name>
 	</channel>
@@ -5325,204 +5325,6 @@
 	<channel id="北京卡酷少儿">
 		<display-name lang="zh">北京卡酷少儿</display-name>
 	</channel>
-	<programme channel="北京卡酷少儿" start="20260825001200 +0800" stop="20260825003200 +0800">
-		<title lang="zh">音乐公主爱美莉(1)</title>
-	</programme>
-	<programme channel="北京卡酷少儿" start="20260825003200 +0800" stop="20260825005200 +0800">
-		<title lang="zh">音乐公主爱美莉(2)</title>
-	</programme>
-	<programme channel="北京卡酷少儿" start="20260825005200 +0800" stop="20260825011200 +0800">
-		<title lang="zh">音乐公主爱美莉(3)</title>
-	</programme>
-	<programme channel="北京卡酷少儿" start="20260825011200 +0800" stop="20260825013200 +0800">
-		<title lang="zh">音乐公主爱美莉(4)</title>
-	</programme>
-	<programme channel="北京卡酷少儿" start="20260825013200 +0800" stop="20260825015200 +0800">
-		<title lang="zh">音乐公主爱美莉(5)</title>
-	</programme>
-	<programme channel="北京卡酷少儿" start="20260825015200 +0800" stop="20260825021200 +0800">
-		<title lang="zh">音乐公主爱美莉(6)</title>
-	</programme>
-	<programme channel="北京卡酷少儿" start="20260825021200 +0800" stop="20260825023200 +0800">
-		<title lang="zh">音乐公主爱美莉(7)</title>
-	</programme>
-	<programme channel="北京卡酷少儿" start="20260825023200 +0800" stop="20260825025200 +0800">
-		<title lang="zh">猪猪侠之恐龙日记Ⅷ(1)</title>
-	</programme>
-	<programme channel="北京卡酷少儿" start="20260825025200 +0800" stop="20260825031200 +0800">
-		<title lang="zh">猪猪侠之恐龙日记Ⅷ(2)</title>
-	</programme>
-	<programme channel="北京卡酷少儿" start="20260825031200 +0800" stop="20260825033200 +0800">
-		<title lang="zh">猪猪侠之恐龙日记Ⅷ(3)</title>
-	</programme>
-	<programme channel="北京卡酷少儿" start="20260825033200 +0800" stop="20260825035200 +0800">
-		<title lang="zh">猪猪侠之恐龙日记Ⅷ(4)</title>
-	</programme>
-	<programme channel="北京卡酷少儿" start="20260825035200 +0800" stop="20260825041200 +0800">
-		<title lang="zh">猪猪侠之恐龙日记Ⅷ(5)</title>
-	</programme>
-	<programme channel="北京卡酷少儿" start="20260825041200 +0800" stop="20260825043200 +0800">
-		<title lang="zh">猪猪侠之恐龙日记Ⅷ(6)</title>
-	</programme>
-	<programme channel="北京卡酷少儿" start="20260825043200 +0800" stop="20260825045200 +0800">
-		<title lang="zh">熊出没之小小世界(16)</title>
-	</programme>
-	<programme channel="北京卡酷少儿" start="20260825045200 +0800" stop="20260825051200 +0800">
-		<title lang="zh">熊出没之小小世界(17)</title>
-	</programme>
-	<programme channel="北京卡酷少儿" start="20260825051200 +0800" stop="20260825053600 +0800">
-		<title lang="zh">熊出没之小小世界(18)</title>
-	</programme>
-	<programme channel="北京卡酷少儿" start="20260825053600 +0800" stop="20260825060000 +0800">
-		<title lang="zh">熊出没之小小世界(19)</title>
-	</programme>
-	<programme channel="北京卡酷少儿" start="20260825060000 +0800" stop="20260825060500 +0800">
-		<title lang="zh">薇薇猫日常之博物馆(7)</title>
-	</programme>
-	<programme channel="北京卡酷少儿" start="20260825060500 +0800" stop="20260825062600 +0800">
-		<title lang="zh">葫芦兄弟(3)</title>
-	</programme>
-	<programme channel="北京卡酷少儿" start="20260825062600 +0800" stop="20260825064600 +0800">
-		<title lang="zh">葫芦兄弟(4)</title>
-	</programme>
-	<programme channel="北京卡酷少儿" start="20260825064600 +0800" stop="20260825070700 +0800">
-		<title lang="zh">葫芦兄弟(5)</title>
-	</programme>
-	<programme channel="北京卡酷少儿" start="20260825070700 +0800" stop="20260825072900 +0800">
-		<title lang="zh">汪汪队立大功Ⅸ(21)</title>
-	</programme>
-	<programme channel="北京卡酷少儿" start="20260825072900 +0800" stop="20260825075200 +0800">
-		<title lang="zh">汪汪队立大功Ⅸ(22)</title>
-	</programme>
-	<programme channel="北京卡酷少儿" start="20260825075200 +0800" stop="20260825081400 +0800">
-		<title lang="zh">霸王龙雷奇Ⅱ(3)</title>
-	</programme>
-	<programme channel="北京卡酷少儿" start="20260825081400 +0800" stop="20260825083400 +0800">
-		<title lang="zh">霸王龙雷奇Ⅱ(4)</title>
-	</programme>
-	<programme channel="北京卡酷少儿" start="20260825083400 +0800" stop="20260825083900 +0800">
-		<title lang="zh">雷奇知多少(7)</title>
-	</programme>
-	<programme channel="北京卡酷少儿" start="20260825083900 +0800" stop="20260825090200 +0800">
-		<title lang="zh">汪汪队立大功Ⅳ(19)</title>
-	</programme>
-	<programme channel="北京卡酷少儿" start="20260825090200 +0800" stop="20260825092400 +0800">
-		<title lang="zh">汪汪队立大功Ⅳ(20)</title>
-	</programme>
-	<programme channel="北京卡酷少儿" start="20260825092400 +0800" stop="20260825094800 +0800">
-		<title lang="zh">汪汪队立大功Ⅳ(21)</title>
-	</programme>
-	<programme channel="北京卡酷少儿" start="20260825094800 +0800" stop="20260825101000 +0800">
-		<title lang="zh">汪汪队立大功Ⅳ(22)</title>
-	</programme>
-	<programme channel="北京卡酷少儿" start="20260825101000 +0800" stop="20260825103300 +0800">
-		<title lang="zh">小蜘蛛抽奖版(10)</title>
-	</programme>
-	<programme channel="北京卡酷少儿" start="20260825103300 +0800" stop="20260825105700 +0800">
-		<title lang="zh">小蜘蛛抽奖版(11)</title>
-	</programme>
-	<programme channel="北京卡酷少儿" start="20260825105700 +0800" stop="20260825112000 +0800">
-		<title lang="zh">小蜘蛛抽奖版(12)</title>
-	</programme>
-	<programme channel="北京卡酷少儿" start="20260825112000 +0800" stop="20260825114600 +0800">
-		<title lang="zh">小蜘蛛抽奖版(13)</title>
-	</programme>
-	<programme channel="北京卡酷少儿" start="20260825114600 +0800" stop="20260825120900 +0800">
-		<title lang="zh">小蜘蛛抽奖版(14)</title>
-	</programme>
-	<programme channel="北京卡酷少儿" start="20260825120900 +0800" stop="20260825123400 +0800">
-		<title lang="zh">小蜘蛛抽奖版(15)</title>
-	</programme>
-	<programme channel="北京卡酷少儿" start="20260825123400 +0800" stop="20260825125700 +0800">
-		<title lang="zh">小蜘蛛抽奖版(16)</title>
-	</programme>
-	<programme channel="北京卡酷少儿" start="20260825125700 +0800" stop="20260825131900 +0800">
-		<title lang="zh">无敌鹿战队Ⅱ(13)</title>
-	</programme>
-	<programme channel="北京卡酷少儿" start="20260825131900 +0800" stop="20260825133900 +0800">
-		<title lang="zh">无敌鹿战队Ⅱ(14)</title>
-	</programme>
-	<programme channel="北京卡酷少儿" start="20260825133900 +0800" stop="20260825140000 +0800">
-		<title lang="zh">猪猪侠之功夫小英雄(4)</title>
-	</programme>
-	<programme channel="北京卡酷少儿" start="20260825140000 +0800" stop="20260825142000 +0800">
-		<title lang="zh">猪猪侠之功夫小英雄(5)</title>
-	</programme>
-	<programme channel="北京卡酷少儿" start="20260825142000 +0800" stop="20260825144100 +0800">
-		<title lang="zh">猪猪侠之功夫小英雄(6)</title>
-	</programme>
-	<programme channel="北京卡酷少儿" start="20260825144100 +0800" stop="20260825150100 +0800">
-		<title lang="zh">猪猪侠之功夫小英雄(7)</title>
-	</programme>
-	<programme channel="北京卡酷少儿" start="20260825150100 +0800" stop="20260825152400 +0800">
-		<title lang="zh">海绵宝宝ⅩⅢ(14)</title>
-	</programme>
-	<programme channel="北京卡酷少儿" start="20260825152400 +0800" stop="20260825154600 +0800">
-		<title lang="zh">海绵宝宝ⅩⅢ(15)</title>
-	</programme>
-	<programme channel="北京卡酷少儿" start="20260825154600 +0800" stop="20260825161000 +0800">
-		<title lang="zh">小蜘蛛抽奖版(28)</title>
-	</programme>
-	<programme channel="北京卡酷少儿" start="20260825161000 +0800" stop="20260825163300 +0800">
-		<title lang="zh">小蜘蛛抽奖版(29)</title>
-	</programme>
-	<programme channel="北京卡酷少儿" start="20260825163300 +0800" stop="20260825165800 +0800">
-		<title lang="zh">小蜘蛛抽奖版(30)</title>
-	</programme>
-	<programme channel="北京卡酷少儿" start="20260825165800 +0800" stop="20260825171800 +0800">
-		<title lang="zh">熊出没之小小世界Ⅱ(7)</title>
-	</programme>
-	<programme channel="北京卡酷少儿" start="20260825171800 +0800" stop="20260825174000 +0800">
-		<title lang="zh">熊出没之小小世界Ⅱ(8)</title>
-	</programme>
-	<programme channel="北京卡酷少儿" start="20260825174000 +0800" stop="20260825180300 +0800">
-		<title lang="zh">熊出没之小小世界Ⅱ(9)</title>
-	</programme>
-	<programme channel="北京卡酷少儿" start="20260825180300 +0800" stop="20260825182500 +0800">
-		<title lang="zh">熊出没之小小世界Ⅱ(10)</title>
-	</programme>
-	<programme channel="北京卡酷少儿" start="20260825182500 +0800" stop="20260825184500 +0800">
-		<title lang="zh">熊出没之小小世界Ⅱ(11)</title>
-	</programme>
-	<programme channel="北京卡酷少儿" start="20260825184500 +0800" stop="20260825190700 +0800">
-		<title lang="zh">熊出没之小小世界Ⅱ(12)</title>
-	</programme>
-	<programme channel="北京卡酷少儿" start="20260825190700 +0800" stop="20260825195200 +0800">
-		<title lang="zh">卡酷成长剧场(上)</title>
-	</programme>
-	<programme channel="北京卡酷少儿" start="20260825195200 +0800" stop="20260825203700 +0800">
-		<title lang="zh">卡酷成长剧场(下)</title>
-	</programme>
-	<programme channel="北京卡酷少儿" start="20260825203700 +0800" stop="20260825205700 +0800">
-		<title lang="zh">熊熊帮帮团Ⅲ(6)</title>
-	</programme>
-	<programme channel="北京卡酷少儿" start="20260825205700 +0800" stop="20260825211800 +0800">
-		<title lang="zh">熊熊帮帮团Ⅲ(7)</title>
-	</programme>
-	<programme channel="北京卡酷少儿" start="20260825211800 +0800" stop="20260825213800 +0800">
-		<title lang="zh">黑猫警长(3)</title>
-	</programme>
-	<programme channel="北京卡酷少儿" start="20260825213800 +0800" stop="20260825215900 +0800">
-		<title lang="zh">黑猫警长(4)</title>
-	</programme>
-	<programme channel="北京卡酷少儿" start="20260825215900 +0800" stop="20260825221900 +0800">
-		<title lang="zh">黑猫警长(5)</title>
-	</programme>
-	<programme channel="北京卡酷少儿" start="20260825221900 +0800" stop="20260825224300 +0800">
-		<title lang="zh">喜羊羊与灰太狼之运动英雄传(5)</title>
-	</programme>
-	<programme channel="北京卡酷少儿" start="20260825224300 +0800" stop="20260825230400 +0800">
-		<title lang="zh">喜羊羊与灰太狼之运动英雄传(6)</title>
-	</programme>
-	<programme channel="北京卡酷少儿" start="20260825230400 +0800" stop="20260825232800 +0800">
-		<title lang="zh">喜羊羊与灰太狼之运动英雄传(7)</title>
-	</programme>
-	<programme channel="北京卡酷少儿" start="20260825232800 +0800" stop="20260825234800 +0800">
-		<title lang="zh">喜羊羊与灰太狼之运动英雄传(8)</title>
-	</programme>
-	<programme channel="北京卡酷少儿" start="20260825234800 +0800" stop="20260825235900 +0800">
-		<title lang="zh">喜羊羊与灰太狼之运动英雄传(9)</title>
-	</programme>
 	<programme channel="北京卡酷少儿" start="20260826001200 +0800" stop="20260826003200 +0800">
 		<title lang="zh">音乐公主爱美莉(8)</title>
 	</programme>
@@ -6677,5 +6479,203 @@
 	</programme>
 	<programme channel="北京卡酷少儿" start="20260831234900 +0800" stop="20260831235900 +0800">
 		<title lang="zh">喜羊羊与灰太狼之运动英雄传(36)</title>
+	</programme>
+	<programme channel="北京卡酷少儿" start="20260901001400 +0800" stop="20260901003400 +0800">
+		<title lang="zh">音乐公主爱美莉(8)</title>
+	</programme>
+	<programme channel="北京卡酷少儿" start="20260901003400 +0800" stop="20260901005400 +0800">
+		<title lang="zh">音乐公主爱美莉(9)</title>
+	</programme>
+	<programme channel="北京卡酷少儿" start="20260901005400 +0800" stop="20260901011400 +0800">
+		<title lang="zh">音乐公主爱美莉(10)</title>
+	</programme>
+	<programme channel="北京卡酷少儿" start="20260901011400 +0800" stop="20260901013400 +0800">
+		<title lang="zh">音乐公主爱美莉(11)</title>
+	</programme>
+	<programme channel="北京卡酷少儿" start="20260901013400 +0800" stop="20260901015400 +0800">
+		<title lang="zh">音乐公主爱美莉(12)</title>
+	</programme>
+	<programme channel="北京卡酷少儿" start="20260901015400 +0800" stop="20260901021400 +0800">
+		<title lang="zh">音乐公主爱美莉(13)</title>
+	</programme>
+	<programme channel="北京卡酷少儿" start="20260901021400 +0800" stop="20260901023400 +0800">
+		<title lang="zh">猪猪侠之恐龙日记Ⅷ(7)</title>
+	</programme>
+	<programme channel="北京卡酷少儿" start="20260901023400 +0800" stop="20260901025400 +0800">
+		<title lang="zh">猪猪侠之恐龙日记Ⅷ(8)</title>
+	</programme>
+	<programme channel="北京卡酷少儿" start="20260901025400 +0800" stop="20260901031400 +0800">
+		<title lang="zh">猪猪侠之恐龙日记Ⅷ(9)</title>
+	</programme>
+	<programme channel="北京卡酷少儿" start="20260901031400 +0800" stop="20260901033400 +0800">
+		<title lang="zh">猪猪侠之恐龙日记Ⅷ(10)</title>
+	</programme>
+	<programme channel="北京卡酷少儿" start="20260901033400 +0800" stop="20260901035400 +0800">
+		<title lang="zh">猪猪侠之恐龙日记Ⅷ(11)</title>
+	</programme>
+	<programme channel="北京卡酷少儿" start="20260901035400 +0800" stop="20260901041400 +0800">
+		<title lang="zh">猪猪侠之恐龙日记Ⅷ(12)</title>
+	</programme>
+	<programme channel="北京卡酷少儿" start="20260901041400 +0800" stop="20260901043400 +0800">
+		<title lang="zh">猪猪侠之恐龙日记Ⅷ(13)</title>
+	</programme>
+	<programme channel="北京卡酷少儿" start="20260901043400 +0800" stop="20260901045400 +0800">
+		<title lang="zh">熊出没之小小世界(16)</title>
+	</programme>
+	<programme channel="北京卡酷少儿" start="20260901045400 +0800" stop="20260901051400 +0800">
+		<title lang="zh">熊出没之小小世界(17)</title>
+	</programme>
+	<programme channel="北京卡酷少儿" start="20260901051400 +0800" stop="20260901053600 +0800">
+		<title lang="zh">熊出没之小小世界(18)</title>
+	</programme>
+	<programme channel="北京卡酷少儿" start="20260901053600 +0800" stop="20260901060000 +0800">
+		<title lang="zh">熊出没之小小世界(19)</title>
+	</programme>
+	<programme channel="北京卡酷少儿" start="20260901060000 +0800" stop="20260901060500 +0800">
+		<title lang="zh">薇薇猫的日常Ⅱ(1)</title>
+	</programme>
+	<programme channel="北京卡酷少儿" start="20260901060500 +0800" stop="20260901062900 +0800">
+		<title lang="zh">米奇妙妙大冒险(4)</title>
+	</programme>
+	<programme channel="北京卡酷少儿" start="20260901062900 +0800" stop="20260901065200 +0800">
+		<title lang="zh">米奇妙妙大冒险(5)</title>
+	</programme>
+	<programme channel="北京卡酷少儿" start="20260901065200 +0800" stop="20260901071600 +0800">
+		<title lang="zh">米奇妙妙大冒险(6)</title>
+	</programme>
+	<programme channel="北京卡酷少儿" start="20260901071600 +0800" stop="20260901073600 +0800">
+		<title lang="zh">霸王龙雷奇(3)</title>
+	</programme>
+	<programme channel="北京卡酷少儿" start="20260901073600 +0800" stop="20260901075600 +0800">
+		<title lang="zh">霸王龙雷奇(4)</title>
+	</programme>
+	<programme channel="北京卡酷少儿" start="20260901075600 +0800" stop="20260901080200 +0800">
+		<title lang="zh">雷奇知多少(12)</title>
+	</programme>
+	<programme channel="北京卡酷少儿" start="20260901080200 +0800" stop="20260901082500 +0800">
+		<title lang="zh">海绵宝宝ⅩⅢ(13)</title>
+	</programme>
+	<programme channel="北京卡酷少儿" start="20260901082500 +0800" stop="20260901084700 +0800">
+		<title lang="zh">海绵宝宝ⅩⅢ(14)</title>
+	</programme>
+	<programme channel="北京卡酷少儿" start="20260901084700 +0800" stop="20260901091000 +0800">
+		<title lang="zh">海绵宝宝ⅩⅢ(15)</title>
+	</programme>
+	<programme channel="北京卡酷少儿" start="20260901091000 +0800" stop="20260901093200 +0800">
+		<title lang="zh">海绵宝宝ⅩⅢ(16)</title>
+	</programme>
+	<programme channel="北京卡酷少儿" start="20260901093200 +0800" stop="20260901095500 +0800">
+		<title lang="zh">海绵宝宝ⅩⅢ(17)</title>
+	</programme>
+	<programme channel="北京卡酷少儿" start="20260901095500 +0800" stop="20260901101700 +0800">
+		<title lang="zh">海绵宝宝ⅩⅢ(18)</title>
+	</programme>
+	<programme channel="北京卡酷少儿" start="20260901101700 +0800" stop="20260901104000 +0800">
+		<title lang="zh">小蜘蛛(8)</title>
+	</programme>
+	<programme channel="北京卡酷少儿" start="20260901104000 +0800" stop="20260901110400 +0800">
+		<title lang="zh">小蜘蛛(9)</title>
+	</programme>
+	<programme channel="北京卡酷少儿" start="20260901110400 +0800" stop="20260901112700 +0800">
+		<title lang="zh">小蜘蛛(10)</title>
+	</programme>
+	<programme channel="北京卡酷少儿" start="20260901112700 +0800" stop="20260901115200 +0800">
+		<title lang="zh">小蜘蛛(11)</title>
+	</programme>
+	<programme channel="北京卡酷少儿" start="20260901115200 +0800" stop="20260901121500 +0800">
+		<title lang="zh">小蜘蛛(12)</title>
+	</programme>
+	<programme channel="北京卡酷少儿" start="20260901121500 +0800" stop="20260901123900 +0800">
+		<title lang="zh">小蜘蛛(13)</title>
+	</programme>
+	<programme channel="北京卡酷少儿" start="20260901123900 +0800" stop="20260901130200 +0800">
+		<title lang="zh">小蜘蛛(14)</title>
+	</programme>
+	<programme channel="北京卡酷少儿" start="20260901130200 +0800" stop="20260901132300 +0800">
+		<title lang="zh">猪猪侠之功夫小英雄Ⅱ(7)</title>
+	</programme>
+	<programme channel="北京卡酷少儿" start="20260901132300 +0800" stop="20260901134300 +0800">
+		<title lang="zh">猪猪侠之功夫小英雄Ⅱ(8)</title>
+	</programme>
+	<programme channel="北京卡酷少儿" start="20260901134300 +0800" stop="20260901140400 +0800">
+		<title lang="zh">猪猪侠之功夫小英雄Ⅱ(9)</title>
+	</programme>
+	<programme channel="北京卡酷少儿" start="20260901140400 +0800" stop="20260901142400 +0800">
+		<title lang="zh">猪猪侠之功夫小英雄Ⅱ(10)</title>
+	</programme>
+	<programme channel="北京卡酷少儿" start="20260901142400 +0800" stop="20260901144500 +0800">
+		<title lang="zh">熊出没之小小世界(5)</title>
+	</programme>
+	<programme channel="北京卡酷少儿" start="20260901144500 +0800" stop="20260901150500 +0800">
+		<title lang="zh">熊出没之小小世界(6)</title>
+	</programme>
+	<programme channel="北京卡酷少儿" start="20260901150500 +0800" stop="20260901152600 +0800">
+		<title lang="zh">熊出没之小小世界(7)</title>
+	</programme>
+	<programme channel="北京卡酷少儿" start="20260901152600 +0800" stop="20260901154600 +0800">
+		<title lang="zh">熊出没之小小世界(8)</title>
+	</programme>
+	<programme channel="北京卡酷少儿" start="20260901154600 +0800" stop="20260901161000 +0800">
+		<title lang="zh">小蜘蛛(12)</title>
+	</programme>
+	<programme channel="北京卡酷少儿" start="20260901161000 +0800" stop="20260901163300 +0800">
+		<title lang="zh">小蜘蛛(13)</title>
+	</programme>
+	<programme channel="北京卡酷少儿" start="20260901163300 +0800" stop="20260901165700 +0800">
+		<title lang="zh">小蜘蛛(14)</title>
+	</programme>
+	<programme channel="北京卡酷少儿" start="20260901165700 +0800" stop="20260901171700 +0800">
+		<title lang="zh">熊出没之神奇宝物(7)</title>
+	</programme>
+	<programme channel="北京卡酷少儿" start="20260901171700 +0800" stop="20260901173900 +0800">
+		<title lang="zh">熊出没之神奇宝物(8)</title>
+	</programme>
+	<programme channel="北京卡酷少儿" start="20260901173900 +0800" stop="20260901180200 +0800">
+		<title lang="zh">熊出没之神奇宝物(9)</title>
+	</programme>
+	<programme channel="北京卡酷少儿" start="20260901180200 +0800" stop="20260901182400 +0800">
+		<title lang="zh">熊出没之神奇宝物(10)</title>
+	</programme>
+	<programme channel="北京卡酷少儿" start="20260901182400 +0800" stop="20260901184400 +0800">
+		<title lang="zh">熊出没之神奇宝物(11)</title>
+	</programme>
+	<programme channel="北京卡酷少儿" start="20260901184400 +0800" stop="20260901190600 +0800">
+		<title lang="zh">熊出没之神奇宝物(12)</title>
+	</programme>
+	<programme channel="北京卡酷少儿" start="20260901190600 +0800" stop="20260901195000 +0800">
+		<title lang="zh">卡酷成长剧场(上)</title>
+	</programme>
+	<programme channel="北京卡酷少儿" start="20260901195000 +0800" stop="20260901203500 +0800">
+		<title lang="zh">卡酷成长剧场(下)</title>
+	</programme>
+	<programme channel="北京卡酷少儿" start="20260901203500 +0800" stop="20260901205500 +0800">
+		<title lang="zh">熊出没之小小世界Ⅱ(7)</title>
+	</programme>
+	<programme channel="北京卡酷少儿" start="20260901205500 +0800" stop="20260901211700 +0800">
+		<title lang="zh">熊出没之小小世界Ⅱ(8)</title>
+	</programme>
+	<programme channel="北京卡酷少儿" start="20260901211700 +0800" stop="20260901213700 +0800">
+		<title lang="zh">葫芦兄弟(3)</title>
+	</programme>
+	<programme channel="北京卡酷少儿" start="20260901213700 +0800" stop="20260901215800 +0800">
+		<title lang="zh">葫芦兄弟(4)</title>
+	</programme>
+	<programme channel="北京卡酷少儿" start="20260901215800 +0800" stop="20260901221800 +0800">
+		<title lang="zh">葫芦兄弟(5)</title>
+	</programme>
+	<programme channel="北京卡酷少儿" start="20260901221800 +0800" stop="20260901224200 +0800">
+		<title lang="zh">喜羊羊与灰太狼之羊村守护者Ⅹ</title>
+	</programme>
+	<programme channel="北京卡酷少儿" start="20260901224200 +0800" stop="20260901230300 +0800">
+		<title lang="zh">喜羊羊与灰太狼之羊村守护者Ⅹ</title>
+	</programme>
+	<programme channel="北京卡酷少儿" start="20260901230300 +0800" stop="20260901232700 +0800">
+		<title lang="zh">喜羊羊与灰太狼之羊村守护者Ⅹ</title>
+	</programme>
+	<programme channel="北京卡酷少儿" start="20260901232700 +0800" stop="20260901234700 +0800">
+		<title lang="zh">喜羊羊与灰太狼之羊村守护者Ⅹ</title>
+	</programme>
+	<programme channel="北京卡酷少儿" start="20260901234700 +0800" stop="20260901235900 +0800">
+		<title lang="zh">喜羊羊与灰太狼之羊村守护者Ⅹ</title>
 	</programme>
 </tv>
