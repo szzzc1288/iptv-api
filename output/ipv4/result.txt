@@ -1,10 +1,17 @@
 🕘️更新时间,#genre#
-2026-09-04 22:17:16,http://115.171.216.40:4000/rtp/225.1.8.20:8004
+2026-09-05 07:59:46,http://101.66.195.43:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=0&authid=0
 
 📺央视频道,#genre#
+CCTV-1,http://101.66.195.43:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV-2,http://101.66.195.43:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV-3,http://101.66.195.43:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV-5,http://115.171.216.32:4000/rtp/225.1.8.20:8004
 CCTV-5,http://115.171.216.40:4000/rtp/225.1.8.20:8004
 CCTV-5,http://115.171.216.32:4000/rtp/225.1.8.89:8000
-CCTV-5,http://115.171.216.32:4000/rtp/225.1.8.20:8004
+CCTV-5,http://101.66.195.43:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV-6,http://101.66.195.43:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV-7,http://101.66.195.43:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV-8,http://101.66.195.43:9901/tsfile/live/0008_1.m3u8?key=txiptv&playlive=0&authid=0
 CCTV-10,https://cdn4.skygo.mn/live/disk1/CCTV-10/HLSv3-FTA/CCTV-10.m3u8
 CCTV-10,https://hwapi.yntv.net/ew265l/z1z6s5.m3u8
 CETV-1,http://38.75.136.137:98/gslb/dsdqpub/cetv1hd.m3u8?auth=testpub
@@ -14,9 +21,7 @@ CETV-1,https://m1b2.worldcast.tv/dancetelevisiontwo/dancetelevisiontwo.m3u8
 📡卫视频道,#genre#
 
 ☘️广东频道,#genre#
-广东珠江,http://74.91.26.218:82/live/gdzj.m3u8
 广东珠江,http://38.75.136.137:98/gslb/dsdqpub/gdzj.m3u8?auth=testpub
-广东新闻,http://74.91.26.218:82/live/gdxw.m3u8
 
 ☘️北京频道,#genre#
 北京卡酷少儿,http://204.12.221.218:8181/3m1080p/btvkk.m3u8
