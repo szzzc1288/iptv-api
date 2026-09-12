@@ -1,17 +1,14 @@
 🕘️更新时间,#genre#
-2026-09-11 22:21:22,http://115.171.216.32:4000/rtp/225.1.8.20:8004
+2026-09-12 08:11:57,http://115.171.216.32:4000/rtp/225.1.8.20:8004
 
 📺央视频道,#genre#
 CCTV-5,http://115.171.216.32:4000/rtp/225.1.8.20:8004
-CCTV-5,http://115.171.216.32:4000/rtp/225.1.8.89:8000
-CCTV-10,https://cdn4.skygo.mn/live/disk1/CCTV-10/HLSv3-FTA/CCTV-10.m3u8
 CCTV-10,https://hwapi.yntv.net/ew265l/z1z6s5.m3u8
+CCTV-10,https://cdn4.skygo.mn/live/disk1/CCTV-10/HLSv3-FTA/CCTV-10.m3u8
 CETV-1,http://38.75.136.137:98/gslb/dsdqpub/cetv1hd.m3u8?auth=testpub
 CETV-1,https://h5cul1yar48um3t.wcetv.com/hls/wcetv318.m3u8
-CETV-1,http://mg.cttv.vip/923287154
 CETV-1,https://m1b2.worldcast.tv/dancetelevisiontwo/dancetelevisiontwo.m3u8
 CETV-1,http://106.3.210.21/mobilelive-pull.ysp.cctv.cn/ysp/2022823801.m3u8
-CETV-4,http://mg.cttv.vip/923287339
 
 📡卫视频道,#genre#
 
@@ -30,5 +27,4 @@ CETV-4,http://mg.cttv.vip/923287339
 翡翠台,rtmp://oc-play-ali.vipkid.com.cn/live/xianajiaoge-fct
 凤凰中文,rtmp://oc-play-ali.vipkid.com.cn/live/xianajiaoge-fhzw
 凤凰资讯,rtmp://oc-play-ali.vipkid.com.cn/live/xianajiaoge-fhzx
-纬来育乐,http://31.43.191.125:8080/vip7201770826573/415c945b71e8/34849
 星卫娱乐,http://61.162.52.6:8088/newlive/live/hls/60/live.m3u8
